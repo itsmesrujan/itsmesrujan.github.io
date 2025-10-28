@@ -1,0 +1,22 @@
+html {
+    background-color: #001fbd;
+    color: #ffffff;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    text-shadow: 2px 2px 2px black;
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+}
+
+button {
+    font-size: 20px;
+    align-self: center;
+}
