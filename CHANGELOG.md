@@ -105,3 +105,6 @@ _It can have version, date of change and relevant changes of that release versio
 ## [0.9.9] - [23-Feb-2026]
 - Skill description update
 - CSS environment variable update
+
+## [0.9.10] - [29-Mar-2026]
+- Mail update.
